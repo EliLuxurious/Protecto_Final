@@ -27,7 +27,7 @@ Este documento proporciona instrucciones paso a paso para compilar un sistema we
 
 4. **Crear la base de datos:**
    - Abre phpMyAdmin desde el menú de Laragon.
-   - Crea una nueva base de datos llamada `ejemplo5` desde la interfaz de phpMyAdmin.
+   - Crea una nueva base de datos llamada `dbsistema` desde la interfaz de phpMyAdmin.
 
 5. **Ejecutar migraciones:**
    - Abre una terminal dentro de Laragon y navega al directorio del proyecto.
